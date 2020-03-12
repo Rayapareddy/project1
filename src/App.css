@@ -1,38 +1,77 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.parent{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+ 
+  
+  width: 100%;
+}
+.child{
+  width: 20%;
+  height: 30%;
+  border: 1px solid rgb(238, 147, 147);
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000;
+  text-align: center;
+  border-radius: 20px;
+  background-color: bisque;
+  
+  
+  
+}
+.child img{
+  width: 60%;
 }
 
-.App-link {
-  color: #61dafb;
+.link{
+  text-decoration: none;
+  font-size: large;
+} 
+.mobile{
+  text-decoration: none;
+  font-size: large;
 }
+.btn{
+  background-color: rgb(169, 197, 190);
+  text-decoration: none;
+  font-size: larger;
+  box-shadow: 0px 8px 8px -8px rgb(105, 114, 66);
+  display: block;
+  border-radius: 10px;
+  width: none;
+  color: rgb(246, 105, 10);
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.child2{
+  border: 1px solid rgb(241, 144, 144);
+  width: 78%;
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000;
+  border-radius: 20px;
+  background-color: bisque
+  
+  
+}
+.skill{
+  margin: 1%;
+  padding: 1%;
+  border: solid rgb(177, 145, 107);
+  border-radius: 10px;
+  box-shadow: 6px 16px 16px -15px rgb(18, 238, 29);
+  font-size: large;
+  
+
+}
+.child>a{
+  color: rgb(129, 160, 79);
+}
+.bhoom{
+  margin: 1%;
+  padding: 1%;
+  border: solid rgb(177, 145, 107);
+  border-radius: 10px;
+  box-shadow: 6px 16px 16px -15px rgb(18, 238, 29);
+  font-size: large;
+  
 }

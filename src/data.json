@@ -1,0 +1,90 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"KASHIF",
+                "email":"kashifkajja@gmail.com",
+                "mobile":"+91 9988223344"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"99.92%",
+                    "institute":"AP MODEL SCHOOL"
+                },
+                {
+                    "degree":"INTERMEDIATE",
+                    "percentage":"98.99%",
+                    "institute":"SRI CAHAITANYA"
+                },
+                {
+                    "degree":"B.TECH",
+                    "percentage":"99.88%",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Language",
+                    "values":["C","Java","C++","Python","Ruby","English"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","Java Script"]
+                },
+                {
+                    "type":"Frame Works and Liberies",
+                    "values":["React Js"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["Windows","ubuntu","Lynex++"]
+                }
+            ]   
+        
+        },
+
+        {
+            "basics":{
+                "name":"ANJI BABU",
+                "email":"Babu@gmail.com",
+                "mobile":"+91 9988116622"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"99.92%",
+                    "institute":"SKY HIGH"
+                },
+                {
+                    "degree":"INTERMEDIATE",
+                    "percentage":"98.99%",
+                    "institute":"SRI CAHAITANYA"
+                },
+                {
+                    "degree":"B.TECH",
+                    "percentage":"99.88%",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Language",
+                    "values":["C","Java","C++","Python","Ruby","English"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","Java Script"]
+                },
+                {
+                    "type":"Frame Works and Liberies",
+                    "values":["React Js"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["Windows","ubuntu","Lynex++"]
+                }    
+            ]
+        }
+    ]
+}
